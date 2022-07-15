@@ -70,6 +70,10 @@ Join a Domain(Input Credentials):  <br/>
   Mount Exchange Server 2019 ISO:  <br/>
 <img src="https://i.imgur.com/001qko9.jpg" height="80%" width="80%" alt="Mount Exchange ISO"/>
 <br />
+
+  Microsoft Exchange Server Prerequisite Check Failed:  <br/>
+<img src="https://i.imgur.com/6JR1AkD.jpg" height="80%" width="80%" alt="Mount Exchange ISO"/>
+<br />
  
 <h2>To be continued....  </h2>
 
