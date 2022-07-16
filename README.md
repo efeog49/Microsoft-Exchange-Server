@@ -84,8 +84,8 @@ Join a Domain(Input Credentials):  <br/>
 <br />
  
  
-   Microsoft Exchange Server Prerequisite Check Successfull:  <br/>
-<img src="https://i.imgur.com/jPBlH4W.jpg" height="80%" width="80%" alt="Mount Exchange ISO"/>
+   Microsoft Exchange Server Instalation(PrepareAllDomains):  <br/>
+<img src="https://i.imgur.com/dSwzAtI.jpg" height="80%" width="80%" alt="Mount Exchange ISO"/>
 <br />
  
 <h2>To be continued....  </h2>
