@@ -74,6 +74,19 @@ Join a Domain(Input Credentials):  <br/>
   Microsoft Exchange Server Prerequisite Check Failed:  <br/>
 <img src="https://i.imgur.com/6JR1AkD.jpg" height="80%" width="80%" alt="Mount Exchange ISO"/>
 <br />
+
+  Microsoft Exchange Server Prerequisite Check Successfull:  <br/>
+<img src="https://i.imgur.com/jPBlH4W.jpg" height="80%" width="80%" alt="Mount Exchange ISO"/>
+<br />
+ 
+   Microsoft Exchange Server Installation(PrepareAD):  <br/>
+<img src="https://i.imgur.com/R7bbFgR.jpg" height="80%" width="80%" alt="Mount Exchange ISO"/>
+<br />
+ 
+ 
+   Microsoft Exchange Server Prerequisite Check Successfull:  <br/>
+<img src="https://i.imgur.com/jPBlH4W.jpg" height="80%" width="80%" alt="Mount Exchange ISO"/>
+<br />
  
 <h2>To be continued....  </h2>
 
